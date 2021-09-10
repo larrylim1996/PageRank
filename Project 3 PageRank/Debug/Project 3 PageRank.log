@@ -1,0 +1,15 @@
+﻿  Project 3 PageRank.cpp
+C:\Users\Larry\source\repos\Project 3 PageRank\Project 3 PageRank\Project 3 PageRank.cpp(73,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Larry\source\repos\Project 3 PageRank\Project 3 PageRank\Project 3 PageRank.cpp(97,31): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(248,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\Larry\source\repos\Project 3 PageRank\Project 3 PageRank\Project 3 PageRank.cpp(35): message : see reference to function template instantiation 'std::pair<std::string,float>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,int,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,int> &&) noexcept' being compiled
+C:\Users\Larry\source\repos\Project 3 PageRank\Project 3 PageRank\Project 3 PageRank.cpp(35): message : see reference to function template instantiation 'std::pair<std::string,float>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,int,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,int> &&) noexcept' being compiled
+  Project 3 PageRank.vcxproj -> C:\Users\Larry\source\repos\Project 3 PageRank\Debug\Project 3 PageRank.exe
